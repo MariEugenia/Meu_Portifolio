@@ -1,0 +1,322 @@
+
+/* Rectangle 1 */
+
+header {
+position: absolute;
+width: 1440px;
+height: 110px;
+left: 0px;
+top: -14px;
+
+background: #D9D9D9;
+}
+
+
+/* Rectangle 2 */
+
+.Retangulo2 {
+margin-top: 20px;
+position: absolute;
+width: 198px;
+height: 56px;
+left: 27px;
+top: 13px;
+
+background: #FFFFFF;
+}
+
+/* diogenes 1 */
+
+.img {
+position: absolute;
+width: 54px;
+height: 56px;
+left: 27px;
+top: 13px;
+
+background: url(diogenes.png);
+}
+/* Diogenes FanClub */
+
+.Fanclube {
+margin-top: -15.5px;
+position: absolute;
+width: 111px;
+height: 51px;
+left: 96px;
+top: 35px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 15px;
+
+color: #000000;
+}
+
+
+/* Rectangle 6 */
+
+.Retangulo6 {  
+ margin-top: 20px;
+position: absolute;
+width: 529px;
+height: 59px;
+left: 585px;
+top: 13px;
+
+background: #FFFFFF;
+}
+
+/* Rectangle 7 */
+
+.Rentangulo7{
+position: absolute;
+width: 180px;
+height: 59px;
+left: 1182px;
+top: 13px;
+
+background: #FFFFFF;
+border-radius: 11px;
+}
+
+/* Line 1 */
+
+.Line1{
+position: absolute;
+width: 59.01px;
+height: 0px;
+left: 668px;
+top: 12px;
+
+border: 1px solid #000000;
+transform: rotate(89.03deg);
+}
+
+/* Line 2 */
+
+.Line2 {
+position: absolute;
+width: 59.01px;
+height: 0px;
+left: 811px;
+top: 13px;
+
+border: 1px solid #000000;
+transform: rotate(89.03deg);
+}
+
+/* Line 3 */
+
+.Line3{
+position: absolute;
+width: 59.01px;
+height: 0px;
+left: 970px;
+top: 12px;
+
+border: 1px solid #000000;
+transform: rotate(89.03deg);
+}
+
+/* Home */
+
+.Home { 
+position: absolute;
+width: 85px;
+height: 24px;
+left: 583px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+
+
+/* Products */
+
+.Products {
+position: absolute;
+width: 85px;
+height: 24px;
+left: 697px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+
+
+/* Company */
+
+.Company {
+position: absolute;
+width: 85px;
+height: 24px;
+left: 848px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+
+
+/* More */
+
+.More {
+position: absolute;
+width: 85px;
+height: 24px;
+left: 999px;
+top: 29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+}
+
+
+/* Line 4 */
+
+.Line4 {
+position: absolute;
+width: 58px;
+height: 0px;
+left: 579px;
+top: 48px;
+
+border: 1px solid #000000;
+}
+
+/* Line 5 */
+
+.Line5 {
+position: absolute;
+width: 78px;
+height: 0px;
+left: 698px;
+top: 48px;
+
+border: 1px solid #000000;
+}
+
+/* Line 6 */
+
+.Line6 {
+position: absolute;
+width: 85px;
+height: 0px;
+left: 848px;
+top: 48px;
+
+border: 1px solid #000000;
+}
+
+/* Line 7 */
+
+.Line7 {
+position: absolute;
+width: 43.01px;
+height: 0px;
+left: 999px;
+top: 47px;
+
+border: 1px solid #000000;
+transform: rotate(1.33deg);
+}
+
+/* Headline */
+.Headline {
+position: absolute;
+width: 211px;
+height: 70px;
+left: 605px;
+top: 144px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 61px;
+
+color: #000000;
+}
+
+.Retangulo4 {
+position: absolute;
+width: 587px;
+height: 492px;
+left: 81px;
+top: 262px;
+
+background: #D9D9D9;
+}
+
+.Retangulo12 {
+
+    position: absolute;
+    width: 587px;
+    height: 492px;
+    left: 740px;
+    top: 262px;
+    
+    background: #D9D9D9;
+
+}
+.texto1 {
+margin-top: -400px;  
+position: absolute;
+width: 454px;
+height: 183px;
+left: 250px;
+top: 467px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.nome{ 
+margin-top: -400px;   
+position: absolute;
+width: 400px;
+height: 20px;
+left: 250px;
+top: 403px;
+
+}
+.primeiraFoto{
+
+    position: absolute;
+    width: 199px;
+    height: 75px;
+    left: 250px;
+    top: 312px;
+    
+    background: #FFFFFF;
+
+}
